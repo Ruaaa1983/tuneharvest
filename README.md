@@ -3,5 +3,5 @@
 # 使用
 clone下然后直接用main.py就可以了
 # 依赖
-pip install requests
-pip install beautifulsoup4
+- pip install requests
+- pip install beautifulsoup4
